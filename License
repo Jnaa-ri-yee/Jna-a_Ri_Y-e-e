@@ -1,0 +1,678 @@
+Jña'a Ri Y'ë'ë Limited Use and Distribution License
+Licencia de Uso y Distribución Limitada de Jña'a Ri Y'ë'ë
+
+Version 1.0, August 2026
+Versión 1.0, agosto de 2026
+
+Copyright (c) 2026 Jña'a Ri Y'ë'ë Team
+(Anahi Figueroa Gonzalez, Axel Eduardo Urbina Secundino, Carlos Ramirez Zepeda,
+Maria Fernanda de Jesus Casimiro, Yoatzin Marelly Jimenez Hipolito)
+
+All rights reserved. Todos los derechos reservados.
+
+In the event of any conflict between the Spanish and English versions of this
+license, the Spanish version shall prevail, as it is the original language of
+drafting and corresponds to the applicable jurisdiction (Section 15).
+
+En caso de conflicto entre la version en espanol y en ingles de esta licencia,
+prevalece la version en espanol, por ser el idioma original de redaccion y el
+correspondiente a la jurisdiccion aplicable (Seccion 15).
+
+================================================================================
+ESPANOL
+================================================================================
+
+0. DEFINICIONES
+
+"Materiales Licenciados" significa, en conjunto, la Documentacion y la
+Aplicacion definidas a continuacion, junto con cualquier otro archivo que el
+Licenciante identifique expresamente como cubierto por esta Licencia dentro
+del Repositorio Oficial.
+
+"Documentacion" significa los archivos en formato PDF de presentacion del
+proyecto Jña'a Ri Y'ë'ë incluidos en el Repositorio Oficial.
+
+"Aplicacion" significa el archivo de instalacion (APK) de la aplicacion movil
+Jña'a Ri Y'ë'ë, en su forma binaria y compilada, incluyendo sus recursos,
+iconos, textos, pantallas, sonidos y modelos de inteligencia artificial
+embebidos.
+
+"Repositorio Oficial" significa el repositorio publicado y mantenido por el
+Equipo en https://github.com/Jnaa-ri-yee, asi como el sitio web oficial
+www.jnaa-ri-yee.com y sus canales oficiales de redes sociales.
+
+"Marcas" significa el nombre "Jña'a Ri Y'ë'ë", su traduccion o
+transliteracion, el eslogan "la mano que habla", el logotipo, los iconos, la
+paleta visual y cualquier otro elemento de identidad de marca del proyecto.
+
+"Tienda o Plataforma de Distribucion" significa cualquier tienda de
+aplicaciones, repositorio de software, mercado digital o plataforma de
+terceros mediante la cual se distribuyan, vendan o pongan a disposicion
+aplicaciones moviles al publico, incluyendo de forma enunciativa mas no
+limitativa: Google Play Store, Apple App Store, F-Droid, APKPure, APKMirror,
+Uptodown, Amazon Appstore, Huawei AppGallery, o cualquier tienda, mercado o
+repositorio equivalente presente o futuro.
+
+"Usuario" significa cualquier persona fisica o moral que acceda, descargue,
+instale, use o distribuya los Materiales Licenciados.
+
+"Obra Derivada" significa cualquier modificacion, adaptacion, traduccion,
+recompilacion, ingenieria inversa, extraccion de componentes, o trabajo
+basado total o parcialmente en los Materiales Licenciados.
+
+
+1. OBJETO
+
+Esta Licencia regula el uso, copia y distribucion de los Materiales
+Licenciados publicados por el Equipo en el Repositorio Oficial. Al descargar,
+instalar, ejecutar, copiar o distribuir cualquiera de los Materiales
+Licenciados, el Usuario declara haber leido, entendido y aceptado
+integramente los terminos de esta Licencia.
+
+Esta Licencia no incluye el codigo fuente de la aplicacion, los modelos de
+inteligencia artificial en formato editable o de entrenamiento, ni el dataset
+de imagenes utilizado para entrenarlos. Estos elementos no se distribuyen
+publicamente, permanecen bajo reserva absoluta de derechos del Equipo, y
+forman parte de una solicitud de patente en tramite (Seccion 9).
+
+
+2. CONCESION DE LICENCIA
+
+Sujeto al cumplimiento estricto de todas las condiciones de esta Licencia, el
+Licenciante concede a cada Usuario una licencia personal, no exclusiva, no
+transferible, revocable, mundial y libre de regalias, unicamente para los
+usos expresamente autorizados en la Seccion 3.
+
+Todo derecho no concedido expresamente en esta Licencia queda reservado al
+Licenciante.
+
+
+3. USOS PERMITIDOS
+
+El Usuario puede, sin necesidad de autorizacion adicional y siempre
+cumpliendo las condiciones de atribucion de la Seccion 5:
+
+  a) Leer, consultar y citar el contenido de la Documentacion con fines
+     personales, educativos, academicos, periodisticos o informativos,
+     incluyendo su mencion en trabajos academicos, notas de prensa o
+     resenas, con la atribucion correspondiente.
+
+  b) Descargar e instalar la Aplicacion desde el Repositorio Oficial, en
+     dispositivos de su propiedad o bajo su control, para uso personal y
+     no comercial.
+
+  c) Compartir copias integras y sin modificar de la Documentacion o del
+     archivo APK de la Aplicacion, siempre que dicha distribucion: (i) sea
+     gratuita; (ii) no se realice a traves de una Tienda o Plataforma de
+     Distribucion sin la autorizacion descrita en la Seccion 7; (iii)
+     incluya la atribucion exigida en la Seccion 5; y (iv) no separe,
+     altere ni oculte los avisos legales, marcas o metadatos originales
+     del archivo.
+
+
+4. USOS PROHIBIDOS
+
+Salvo autorizacion previa, expresa y por escrito del Equipo, queda
+estrictamente prohibido:
+
+  a) USO COMERCIAL. Usar, distribuir, ofrecer, vender, sublicenciar o
+     explotar los Materiales Licenciados, en todo o en parte, con fines
+     comerciales, publicitarios o de obtencion de un beneficio economico
+     directo o indirecto.
+
+  b) MODIFICACION Y OBRA DERIVADA. Modificar, adaptar, traducir,
+     recompilar, re-empaquetar, re-firmar digitalmente, cambiar el nombre
+     de paquete (package name), alterar el icono, la pantalla de inicio,
+     los textos, los recursos visuales o cualquier otro elemento de la
+     Aplicacion o la Documentacion, asi como crear cualquier Obra Derivada
+     a partir de ellos.
+
+  c) INGENIERIA INVERSA. Descompilar, desensamblar, o de cualquier otra
+     forma intentar extraer el codigo fuente, los modelos de inteligencia
+     artificial, los pesos entrenados o cualquier componente interno de la
+     Aplicacion, salvo en la medida en que dicha restriccion sea invalida
+     conforme a la ley aplicable.
+
+  d) PUBLICACION EN TIENDAS Y PLATAFORMAS DE DISTRIBUCION. Subir, publicar,
+     someter a revision, o de cualquier forma poner a disposicion la
+     Aplicacion (modificada o sin modificar) en cualquier Tienda o
+     Plataforma de Distribucion, incluyendo Google Play Store y Apple App
+     Store, sin importar si se conserva el nombre y la atribucion
+     originales. Esta facultad esta reservada exclusivamente al Equipo
+     Jña'a Ri Y'ë'ë. Esta restriccion aplica de forma expresa incluso si,
+     a la fecha de descarga de los Materiales Licenciados, la Aplicacion
+     aun no ha sido publicada oficialmente por el Equipo en dichas
+     plataformas.
+
+  e) SUPLANTACION E IMPRESION DE IDENTIDAD. Presentar, promocionar o
+     distribuir los Materiales Licenciados, o cualquier Obra Derivada,
+     dando a entender que se trata de una version oficial, autorizada,
+     patrocinada o avalada por el Equipo, cuando no lo sea.
+
+  f) USO DE MARCA FUERA DE LA ATRIBUCION PERMITIDA. Usar las Marcas
+     -incluyendo el nombre "Jña'a Ri Y'ë'ë", su logotipo o su identidad
+     visual- para nombrar, promocionar o identificar cualquier producto,
+     servicio, cuenta de redes sociales, dominio de internet o proyecto
+     distinto al del Equipo, o de forma que pueda generar confusion
+     respecto al origen de dicho producto o servicio.
+
+  g) REGISTRO DE DOMINIOS Y CUENTAS. Registrar nombres de dominio, nombres
+     de usuario, cuentas de redes sociales o aplicaciones en tiendas
+     digitales que utilicen las Marcas o variaciones confusamente
+     similares a ellas.
+
+  h) EXPLOTACION DEL DATASET Y MODELOS DESCRITOS. Usar la informacion
+     tecnica contenida en la Documentacion (incluyendo la descripcion del
+     dataset, la arquitectura del pipeline de reconocimiento o los
+     resultados de entrenamiento) para desarrollar, entrenar o
+     comercializar un sistema, modelo o producto competidor o derivado.
+
+  i) ELIMINACION DE AVISOS. Eliminar, ocultar o alterar los avisos de
+     derechos de autor, las marcas de agua, los avisos de patente en
+     tramite, o cualquier otro aviso legal presente en los Materiales
+     Licenciados.
+
+  j) EMPAQUETADO CON SOFTWARE DE TERCEROS. Distribuir la Aplicacion
+     empaquetada, combinada o precargada junto con software de terceros,
+     adware, o cualquier herramienta que modifique su comportamiento
+     original sin consentimiento del usuario final.
+
+  k) ELUSION DE MEDIDAS DE PROTECCION. Eludir, desactivar o interferir con
+     cualquier medida tecnica de proteccion, verificacion de firma digital
+     o mecanismo de seguridad implementado en la Aplicacion.
+
+
+5. ATRIBUCION OBLIGATORIA
+
+Todo uso permitido conforme a la Seccion 3 debe incluir, como minimo y de
+forma claramente visible:
+
+  1. El nombre completo del proyecto: "Jña'a Ri Y'ë'ë".
+  2. La mencion "Equipo Jña'a Ri Y'ë'ë" como autor y titular de los derechos.
+  3. Un enlace al sitio oficial www.jnaa-ri-yee.com, cuando el medio de
+     publicacion lo permita tecnicamente.
+  4. Una indicacion de que el contenido se distribuye bajo esta Licencia,
+     con enlace o referencia a este documento.
+
+Ejemplo de atribucion sugerida:
+
+    "Jña'a Ri Y'ë'ë" (c) 2026 Equipo Jña'a Ri Y'ë'ë.
+    Usado bajo licencia -- www.jnaa-ri-yee.com
+
+La atribucion no debe dar a entender, directa o indirectamente, que el
+Equipo respalda, patrocina o esta afiliado a un uso, sitio, publicacion o
+producto particular del Usuario, mas alla del hecho de la autoria de los
+Materiales Licenciados.
+
+
+6. PROTECCION DE MARCA E IDENTIDAD
+
+Las Marcas son propiedad exclusiva del Equipo. Esta Licencia no concede
+ninguna licencia sobre las Marcas mas alla de la reproduccion literal
+necesaria para cumplir con la atribucion de la Seccion 5. Queda prohibido
+registrar, solicitar el registro, o reclamar derechos de propiedad
+industrial sobre las Marcas o cualquier signo confusamente similar, en
+cualquier jurisdiccion, sin autorizacion expresa y por escrito del Equipo.
+
+
+7. DISTRIBUCION EN TIENDAS DE APLICACIONES
+
+El Equipo se reserva, de forma exclusiva, el derecho de publicar, actualizar
+y administrar la Aplicacion en Google Play Store, Apple App Store y
+cualquier otra Tienda o Plataforma de Distribucion. Ninguna disposicion de
+esta Licencia debe interpretarse como una autorizacion, expresa o implicita,
+para que un tercero realice dicha publicacion en nombre propio o del Equipo.
+Cualquier publicacion de este tipo realizada sin autorizacion por escrito
+constituye una violacion grave a esta Licencia y podra ser reportada por el
+Equipo a la plataforma correspondiente para su retiro (takedown),
+independientemente de las acciones legales que procedan.
+
+
+8. AUSENCIA DE AFILIACION
+
+Nada en esta Licencia crea una relacion de sociedad, empleo, representacion,
+agencia o joint venture entre el Equipo y el Usuario. El Usuario no esta
+autorizado a actuar en nombre del Equipo ni a asumir obligaciones a su
+nombre.
+
+
+9. CONFIDENCIALIDAD Y PATENTE EN TRAMITE
+
+El dataset de entrenamiento, los pesos de los modelos, los hiperparametros y
+los procedimientos especificos de entrenamiento descritos de forma general
+en la Documentacion son informacion confidencial y forman parte de una
+solicitud de patente en tramite en Mexico. Esta Licencia no otorga ningun
+derecho, expreso o implicito, sobre dicha solicitud, sobre su eventual
+patente concedida, ni sobre ninguna informacion tecnica no divulgada
+publicamente por el Equipo.
+
+
+10. PROPIEDAD INTELECTUAL
+
+Todos los derechos de autor, derechos de marca, secretos industriales y
+demas derechos de propiedad intelectual sobre los Materiales Licenciados y
+sobre cualquier elemento no cubierto expresamente por esta Licencia (codigo
+fuente, modelos, dataset) pertenecen y permaneceran en todo momento en
+propiedad exclusiva del Equipo. Esta Licencia no constituye una cesion,
+venta ni transferencia de titularidad de ningun derecho de propiedad
+intelectual.
+
+
+11. GARANTIAS Y LIMITACION DE RESPONSABILIDAD
+
+LOS MATERIALES LICENCIADOS SE PROPORCIONAN "TAL CUAL" ("AS IS") Y "SEGUN
+DISPONIBILIDAD" ("AS AVAILABLE"), SIN GARANTIA DE NINGUN TIPO, EXPRESA,
+IMPLICITA O LEGAL, INCLUYENDO SIN LIMITACION GARANTIAS DE COMERCIABILIDAD,
+IDONEIDAD PARA UN PROPOSITO PARTICULAR, NO INFRACCION, EXACTITUD, SEGURIDAD
+O FUNCIONAMIENTO ININTERRUMPIDO. EL USO DE LA APLICACION, AL TRATARSE DE UNA
+VERSION EN FASE DE PRUEBA, ES BAJO EL PROPIO RIESGO DEL USUARIO.
+
+EN LA MAXIMA MEDIDA PERMITIDA POR LA LEY APLICABLE, EL EQUIPO NO SERA
+RESPONSABLE POR NINGUN DANO DIRECTO, INDIRECTO, INCIDENTAL, ESPECIAL,
+CONSECUENTE O PUNITIVO DERIVADO DEL USO O LA IMPOSIBILIDAD DE USO DE LOS
+MATERIALES LICENCIADOS, INCLUSO SI SE HUBIERA ADVERTIDO DE LA POSIBILIDAD DE
+DICHOS DANOS.
+
+
+12. VIGENCIA Y TERMINACION
+
+Esta Licencia entra en vigor en el momento en que el Usuario accede,
+descarga o utiliza cualquiera de los Materiales Licenciados, y permanece
+vigente hasta su terminacion conforme a esta Seccion.
+
+Esta Licencia termina automaticamente, sin necesidad de aviso previo, si el
+Usuario incumple cualquiera de sus condiciones, en particular las
+prohibiciones de la Seccion 4. Al terminar esta Licencia, el Usuario debera
+cesar de inmediato todo uso, distribucion y posesion de los Materiales
+Licenciados y de cualquier copia en su poder.
+
+Las Secciones 0, 6, 8, 9, 10, 11, 13, 15, 16 y 17 sobreviviran a la
+terminacion de esta Licencia por su propia naturaleza.
+
+
+13. CUMPLIMIENTO Y MEDIDAS ANTE INFRACCIONES
+
+El Equipo se reserva el derecho de monitorear el uso publico de los
+Materiales Licenciados y de las Marcas, de solicitar el retiro (takedown) de
+contenido infractor ante tiendas de aplicaciones, plataformas de alojamiento,
+redes sociales o motores de busqueda, y de ejercer las acciones legales
+civiles, mercantiles o penales que correspondan conforme a la legislacion
+mexicana e internacional aplicable, incluyendo pero sin limitarse a la Ley
+Federal del Derecho de Autor y la Ley Federal de Proteccion a la Propiedad
+Industrial de Mexico.
+
+
+14. MODIFICACIONES A ESTA LICENCIA
+
+El Equipo podra publicar versiones actualizadas de esta Licencia en el
+Repositorio Oficial. Las modificaciones no seran retroactivas para copias ya
+distribuidas bajo una version anterior, pero toda nueva descarga o acceso a
+los Materiales Licenciados se regira por la version vigente al momento de
+dicho acceso.
+
+
+15. LEY APLICABLE Y JURISDICCION
+
+Esta Licencia se rige e interpreta conforme a las leyes de los Estados
+Unidos Mexicanos, sin dar efecto a sus disposiciones sobre conflicto de
+leyes. Para cualquier controversia derivada de esta Licencia, las partes se
+someten a la jurisdiccion de los tribunales competentes del Estado de
+Mexico, renunciando a cualquier otro fuero que pudiera corresponderles por
+razon de su domicilio presente o futuro.
+
+
+16. DIVISIBILIDAD
+
+Si cualquier disposicion de esta Licencia fuera declarada invalida, ilegal o
+inejecutable por un tribunal competente, dicha disposicion se limitara o
+eliminara en la medida minima necesaria, y el resto de las disposiciones
+permaneceran en pleno vigor y efecto.
+
+
+17. ACUERDO COMPLETO
+
+Esta Licencia constituye el acuerdo completo entre el Equipo y el Usuario
+respecto al uso de los Materiales Licenciados, y sustituye cualquier
+entendimiento o acuerdo previo, oral o escrito, sobre la misma materia.
+
+
+18. CONTACTO Y AVISOS
+
+Para solicitar autorizacion de uso, reportar una infraccion a esta Licencia,
+o resolver dudas:
+
+    Correo:  jnaariyee@gmail.com
+    Sitio:   www.jnaa-ri-yee.com
+
+--------------------------------------------------------------------------------
+
+Este documento fue redactado a partir de las necesidades especificas del
+proyecto Jña'a Ri Y'ë'ë y no constituye asesoria legal formal ni sustituye el
+consejo de un profesional del derecho. Dada la existencia de una solicitud de
+patente en tramite y del interes en proteger la identidad de marca del
+proyecto, se recomienda encarecidamente su revision por un abogado
+especializado en propiedad intelectual antes de su publicacion definitiva.
+
+
+================================================================================
+ENGLISH
+================================================================================
+
+0. DEFINITIONS
+
+"Licensed Materials" means, collectively, the Documentation and the
+Application as defined below, together with any additional file the
+Licensor expressly identifies as covered by this License within the
+Official Repository.
+
+"Documentation" means the PDF presentation files of the Jña'a Ri Y'ë'ë
+project included in the Official Repository.
+
+"Application" means the installation file (APK) of the Jña'a Ri Y'ë'ë
+mobile app, in compiled binary form, including its resources, icons, text,
+screens, sounds, and embedded AI models.
+
+"Official Repository" means the repository published and maintained by the
+Team at https://github.com/Jnaa-ri-yee, as well as the official website
+www.jnaa-ri-yee.com and its official social media channels.
+
+"Marks" means the name "Jña'a Ri Y'ë'ë," its translation or
+transliteration, the tagline "la mano que habla" ("the hand that speaks"),
+the logo, icons, visual palette, and any other brand identity element of
+the project.
+
+"App Store or Distribution Platform" means any app store, software
+repository, digital marketplace, or third-party platform through which
+mobile applications are distributed, sold, or made available to the public,
+including without limitation: Google Play Store, Apple App Store, F-Droid,
+APKPure, APKMirror, Uptodown, Amazon Appstore, Huawei AppGallery, or any
+equivalent current or future store, marketplace, or repository.
+
+"User" means any natural or legal person who accesses, downloads, installs,
+uses, or distributes the Licensed Materials.
+
+"Derivative Work" means any modification, adaptation, translation,
+recompilation, reverse engineering, extraction of components, or work based
+in whole or in part on the Licensed Materials.
+
+
+1. PURPOSE
+
+This License governs the use, copying, and distribution of the Licensed
+Materials published by the Team in the Official Repository. By downloading,
+installing, running, copying, or distributing any of the Licensed
+Materials, the User declares having read, understood, and fully accepted
+the terms of this License.
+
+This License does not include the application's source code, the AI models
+in editable or training format, or the image dataset used to train them.
+These elements are not publicly distributed, remain under the Team's
+absolute reservation of rights, and are part of a pending patent
+application (Section 9).
+
+
+2. LICENSE GRANT
+
+Subject to strict compliance with all conditions of this License, the
+Licensor grants each User a license that is personal, non-exclusive,
+non-transferable, revocable, worldwide, and royalty-free, solely for the
+uses expressly authorized in Section 3.
+
+Any right not expressly granted in this License is reserved by the
+Licensor.
+
+
+3. PERMITTED USES
+
+The User may, without additional authorization and always subject to the
+attribution conditions in Section 5:
+
+  a) Read, consult, and cite the content of the Documentation for
+     personal, educational, academic, journalistic, or informational
+     purposes, including mentioning it in academic papers, press notes, or
+     reviews, with proper attribution.
+
+  b) Download and install the Application from the Official Repository, on
+     devices they own or control, for personal, non-commercial use.
+
+  c) Share complete, unmodified copies of the Documentation or the
+     Application's APK file, provided such distribution: (i) is free of
+     charge; (ii) is not made through an App Store or Distribution
+     Platform without the authorization described in Section 7; (iii)
+     includes the attribution required in Section 5; and (iv) does not
+     separate, alter, or hide the original legal notices, marks, or
+     metadata of the file.
+
+
+4. PROHIBITED USES
+
+Except with prior, express, written authorization from the Team, it is
+strictly prohibited to:
+
+  a) COMMERCIAL USE. Use, distribute, offer, sell, sublicense, or exploit
+     the Licensed Materials, in whole or in part, for commercial,
+     advertising, or direct or indirect financial gain purposes.
+
+  b) MODIFICATION AND DERIVATIVE WORKS. Modify, adapt, translate,
+     recompile, repackage, digitally re-sign, change the package name,
+     alter the icon, splash screen, text, visual assets, or any other
+     element of the Application or Documentation, or create any
+     Derivative Work based on them.
+
+  c) REVERSE ENGINEERING. Decompile, disassemble, or otherwise attempt to
+     extract the source code, AI models, trained weights, or any internal
+     component of the Application, except to the extent such restriction
+     is invalid under applicable law.
+
+  d) PUBLISHING ON APP STORES AND DISTRIBUTION PLATFORMS. Upload, publish,
+     submit for review, or otherwise make the Application (modified or
+     unmodified) available on any App Store or Distribution Platform,
+     including Google Play Store and Apple App Store, regardless of
+     whether the original name and attribution are preserved. This right
+     is reserved exclusively to the Jña'a Ri Y'ë'ë Team. This restriction
+     applies expressly even if, at the time the Licensed Materials are
+     downloaded, the Application has not yet been officially published by
+     the Team on such platforms.
+
+  e) IMPERSONATION. Present, promote, or distribute the Licensed
+     Materials, or any Derivative Work, in a manner suggesting it is an
+     official, authorized, sponsored, or endorsed version by the Team when
+     it is not.
+
+  f) USE OF THE MARKS BEYOND PERMITTED ATTRIBUTION. Use the Marks --
+     including the name "Jña'a Ri Y'ë'ë," its logo, or visual identity --
+     to name, promote, or identify any product, service, social media
+     account, internet domain, or project other than the Team's, or in a
+     manner that may cause confusion as to the origin of such product or
+     service.
+
+  g) DOMAIN AND ACCOUNT REGISTRATION. Register internet domain names,
+     usernames, social media accounts, or digital store app listings that
+     use the Marks or variations confusingly similar to them.
+
+  h) EXPLOITATION OF THE DESCRIBED DATASET AND MODELS. Use the technical
+     information contained in the Documentation (including the dataset
+     description, the recognition pipeline architecture, or the training
+     results) to develop, train, or commercialize a competing or
+     derivative system, model, or product.
+
+  i) REMOVAL OF NOTICES. Remove, hide, or alter the copyright notices,
+     watermarks, pending patent notices, or any other legal notice present
+     in the Licensed Materials.
+
+  j) BUNDLING WITH THIRD-PARTY SOFTWARE. Distribute the Application
+     bundled, combined, or preloaded together with third-party software,
+     adware, or any tool that modifies its original behavior without the
+     end user's consent.
+
+  k) CIRCUMVENTION OF PROTECTION MEASURES. Circumvent, disable, or
+     interfere with any technical protection measure, digital signature
+     verification, or security mechanism implemented in the Application.
+
+
+5. MANDATORY ATTRIBUTION
+
+Any permitted use under Section 3 must include, at minimum and clearly
+visible:
+
+  1. The full project name: "Jña'a Ri Y'ë'ë."
+  2. The credit "Jña'a Ri Y'ë'ë Team" as author and rights holder.
+  3. A link to the official website www.jnaa-ri-yee.com, where technically
+     permitted by the medium.
+  4. An indication that the content is distributed under this License,
+     with a link or reference to this document.
+
+Suggested attribution example:
+
+    "Jña'a Ri Y'ë'ë" (c) 2026 Jña'a Ri Y'ë'ë Team.
+    Used under license -- www.jnaa-ri-yee.com
+
+Attribution must not suggest, directly or indirectly, that the Team
+endorses, sponsors, or is affiliated with a particular use, site,
+publication, or product of the User, beyond the fact of authorship of the
+Licensed Materials.
+
+
+6. TRADEMARK AND IDENTITY PROTECTION
+
+The Marks are the exclusive property of the Team. This License grants no
+license over the Marks beyond the literal reproduction necessary to comply
+with the attribution in Section 5. It is prohibited to register, apply to
+register, or claim industrial property rights over the Marks or any
+confusingly similar sign, in any jurisdiction, without the Team's express
+written authorization.
+
+
+7. APP STORE DISTRIBUTION
+
+The Team exclusively reserves the right to publish, update, and manage the
+Application on Google Play Store, Apple App Store, and any other App Store
+or Distribution Platform. Nothing in this License shall be construed as an
+express or implied authorization for a third party to carry out such
+publication on its own behalf or on behalf of the Team. Any such
+publication made without written authorization constitutes a material
+breach of this License and may be reported by the Team to the relevant
+platform for takedown, independent of any legal action that may be
+pursued.
+
+
+8. NO AFFILIATION
+
+Nothing in this License creates a partnership, employment, agency, or joint
+venture relationship between the Team and the User. The User is not
+authorized to act on behalf of the Team or to assume obligations in its
+name.
+
+
+9. CONFIDENTIALITY AND PENDING PATENT
+
+The training dataset, model weights, hyperparameters, and specific training
+procedures generally described in the Documentation are confidential
+information and are part of a pending patent application in Mexico. This
+License grants no right, express or implied, over such application, any
+patent eventually granted, or any technical information not publicly
+disclosed by the Team.
+
+
+10. INTELLECTUAL PROPERTY
+
+All copyrights, trademark rights, trade secrets, and other intellectual
+property rights over the Licensed Materials and over any element not
+expressly covered by this License (source code, models, dataset) belong to,
+and shall at all times remain the exclusive property of, the Team. This
+License does not constitute an assignment, sale, or transfer of ownership
+of any intellectual property right.
+
+
+11. WARRANTIES AND LIMITATION OF LIABILITY
+
+THE LICENSED MATERIALS ARE PROVIDED "AS IS" AND "AS AVAILABLE," WITHOUT
+WARRANTY OF ANY KIND, EXPRESS, IMPLIED, OR STATUTORY, INCLUDING WITHOUT
+LIMITATION WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE,
+NON-INFRINGEMENT, ACCURACY, SECURITY, OR UNINTERRUPTED OPERATION. USE OF
+THE APPLICATION, BEING A BETA-STAGE VERSION, IS AT THE USER'S OWN RISK.
+
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, THE TEAM SHALL NOT BE
+LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, OR
+PUNITIVE DAMAGES ARISING FROM THE USE OR INABILITY TO USE THE LICENSED
+MATERIALS, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+
+
+12. TERM AND TERMINATION
+
+This License takes effect at the moment the User accesses, downloads, or
+uses any of the Licensed Materials, and remains in effect until terminated
+under this Section.
+
+This License terminates automatically, without prior notice, if the User
+breaches any of its conditions, particularly the prohibitions in Section 4.
+Upon termination, the User must immediately cease all use, distribution,
+and possession of the Licensed Materials and any copies in their
+possession.
+
+Sections 0, 6, 8, 9, 10, 11, 13, 15, 16, and 17 shall survive termination
+of this License by their nature.
+
+
+13. ENFORCEMENT
+
+The Team reserves the right to monitor public use of the Licensed Materials
+and the Marks, to request the takedown of infringing content from app
+stores, hosting platforms, social media, or search engines, and to pursue
+any civil, commercial, or criminal legal action available under applicable
+Mexican and international law, including but not limited to Mexico's
+Federal Copyright Law (Ley Federal del Derecho de Autor) and Federal
+Industrial Property Protection Law (Ley Federal de Proteccion a la
+Propiedad Industrial).
+
+
+14. CHANGES TO THIS LICENSE
+
+The Team may publish updated versions of this License in the Official
+Repository. Changes will not be retroactive for copies already distributed
+under a prior version, but any new download or access to the Licensed
+Materials will be governed by the version in effect at the time of such
+access.
+
+
+15. GOVERNING LAW AND JURISDICTION
+
+This License is governed by and construed in accordance with the laws of
+the United Mexican States, without giving effect to its conflict-of-law
+provisions. For any dispute arising from this License, the parties submit
+to the jurisdiction of the competent courts of the Estado de Mexico,
+waiving any other venue that might otherwise correspond to them by reason
+of their present or future domicile.
+
+
+16. SEVERABILITY
+
+If any provision of this License is held invalid, illegal, or unenforceable
+by a court of competent jurisdiction, such provision shall be limited or
+eliminated to the minimum extent necessary, and the remaining provisions
+shall remain in full force and effect.
+
+
+17. ENTIRE AGREEMENT
+
+This License constitutes the entire agreement between the Team and the User
+regarding the use of the Licensed Materials, and supersedes any prior
+understanding or agreement, oral or written, on the same subject matter.
+
+
+18. CONTACT AND NOTICES
+
+To request authorization for use, report a violation of this License, or
+resolve questions:
+
+    Email:   jnaariyee@gmail.com
+    Website: www.jnaa-ri-yee.com
+
+--------------------------------------------------------------------------------
+
+This document was drafted based on the specific needs of the Jña'a Ri Y'ë'ë
+project and does not constitute formal legal advice, nor does it replace
+the counsel of a qualified attorney. Given the existence of a pending
+patent application and the interest in protecting the project's brand
+identity, review by an intellectual property attorney is strongly
+recommended before final publication.
