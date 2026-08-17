@@ -154,10 +154,9 @@ Cada cuadro de cámara pasa por un pipeline de 4 modelos encadenados, ejecutado 
 Este repositorio contiene únicamente material de difusión — no incluye código fuente, modelos editables ni el dataset:
 
 - 📄 Documento de presentación del proyecto (PDF)
-- 📄 Cuadernillo de bienvenida para pruebas cerradas (PDF)
 - 📱 Instalador de la aplicación móvil (APK)
 
-Uso personal y no comercial, mensión de creditos obligatorio, sin modificaciones y sin publicación en tiendas de aplicaciones por terceros. Términos completos en [`LICENSE`](./LICENSE) y [`NOTICE`](./NOTICE.md).
+Uso personal y no comercial, mensión de creditos obligatorio, sin modificaciones y sin publicación en tiendas de aplicaciones por terceros. Términos completos en [`LICENSE`](./LICENSE).
 
 ---
 
