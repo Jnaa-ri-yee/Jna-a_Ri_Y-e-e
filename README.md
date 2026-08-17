@@ -157,7 +157,7 @@ Este repositorio contiene únicamente material de difusión — no incluye códi
 - 📄 Cuadernillo de bienvenida para pruebas cerradas (PDF)
 - 📱 Instalador de la aplicación móvil (APK)
 
-Uso personal y no comercial, mensión de creditos obligatorio, sin modificaciones y sin publicación en tiendas de aplicaciones por terceros. Términos completos en [`LICENSE.md`](./LICENSE) y [`NOTICE.md`](./NOTICE.md).
+Uso personal y no comercial, mensión de creditos obligatorio, sin modificaciones y sin publicación en tiendas de aplicaciones por terceros. Términos completos en [`LICENSE`](./LICENSE) y [`NOTICE`](./NOTICE.md).
 
 ---
 
